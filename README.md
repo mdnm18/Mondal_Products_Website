@@ -1,6 +1,13 @@
 # Mondal_Products_Website
 
-# Mondal_Products
+Due to privacy 🔏 reasons the source code files have been hidden.
+
+
+## 🚀 Live Demo
+Experience the live version of the project here:  
+🔗 [Live Demo](https://mondal-products.vercel.app/)
+
+---
 
 # 📌 Mondal Products - Creative Sections
 
@@ -73,12 +80,6 @@ flowchart TD;
 ### 📧 Contact Form Integration
 - Sends data to Google Sheets upon form submission.
 - Displays **loading animations** while submitting.
-
----
-
-## 🚀 Live Demo
-Experience the live version of the project here:  
-🔗 [Live Demo](https://mondal-products.vercel.app/)
 
 ---
 
