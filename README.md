@@ -9,10 +9,10 @@ Experience the live version of the project here:
 
 ---
 
-# 📌 Mondal Products - Creative Sections
+# 📌 Mondal Products - Creative Solutions
 
 ## 🌟 Overview
-Welcome to **Mondal Products - Creative Sections**! This project delivers an interactive, visually appealing, and feature-rich website showcasing innovative tech solutions. 🚀
+Welcome to **Mondal Products - Creative Solutions**! This project delivers an interactive, visually appealing, and feature-rich website showcasing innovative tech solutions. 🚀
 
 ## 📁 Project Structure
 The project consists of three primary files:
